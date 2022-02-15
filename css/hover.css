@@ -1,0 +1,12 @@
+.change a:hover {
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #766cf1;
+  cursor: pointer;
+}
+
+.cancel:hover {
+  color: black;
+}
